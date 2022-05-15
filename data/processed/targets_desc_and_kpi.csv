@@ -1,0 +1,87 @@
+,desc_id,kpi_id,description
+0,12.1,,"Implement the 10-Year Framework of Programmes on Sustainable Consumption and Production Patterns, all countries taking action, with developed countries taking the lead, taking into account the development and capabilities of developing countries"
+1,12.1,12.1.1,"Number of countries developing, adopting or implementing policy instruments aimed at supporting the shift to sustainable consumption and production"
+2,12.2,,"By 2030, achieve the sustainable management and efficient use of natural resources"
+3,12.2,12.2.1,"Material footprint, material footprint per capita, and material footprint per GDP"
+4,12.2,12.2.2,"Domestic material consumption, domestic material consumption per capita, and domestic material consumption per GDP"
+5,12.3,,"By 2030, halve per capita global food waste at the retail and consumer levels and reduce food losses along production and supply chains, including post-harvest losses"
+6,12.3,12.3.1,(a) Food loss index and (b) food waste index
+7,12.4,,"By 2020, achieve the environmentally sound management of chemicals and all wastes throughout their life cycle, in accordance with agreed international frameworks, and significantly reduce their release to air, water and soil in order to minimize their adverse impacts on human health and the environment"
+8,12.4,12.4.1,"Number of parties to international multilateral environmental agreements on hazardous waste, and other chemicals that meet their commitments and obligations in transmitting information as required by each relevant agreement"
+9,12.4,12.4.2,"(a) Hazardous waste generated per capita; and (b) proportion of hazardous waste treated, by type of treatment"
+10,12.5,,"By 2030, substantially reduce waste generation through prevention, reduction, recycling and reuse"
+11,12.5,12.5.1,"National recycling rate, tons of material recycled"
+12,12.6,,"Encourage companies, especially large and transnational companies, to adopt sustainable practices and to integrate sustainability information into their reporting cycle"
+13,12.6,12.6.1,Number of companies publishing sustainability reports
+14,12.7,,"Promote public procurement practices that are sustainable, in accordance with national policies and priorities"
+15,12.7,12.7.1,Degree of sustainable public procurement policies and action plan implementation
+16,12.8,,"By 2030, ensure that people everywhere have the relevant information and awareness for sustainable development and lifestyles in harmony with nature"
+17,12.8,12.8.1,Extent to which (i) global citizenship education and (ii) education for sustainable development are mainstreamed in (a) national education policies; (b) curricula; (c) teacher education; and (d) student assessment
+18,12.a,,Support developing countries to strengthen their scientific and technological capacity to move towards more sustainable patterns of consumption and production
+19,12.a,12.a.1,Installed renewable energy-generating capacity in developing countries (in watts per capita)
+20,12.b,,Develop and implement tools to monitor sustainable development impacts for sustainable tourism that creates jobs and promotes local culture and products
+21,12.b,12.b.1,Implementation of standard accounting tools to monitor the economic and environmental aspects of tourism sustainability
+22,12.c,,"Rationalize inefficient fossil-fuel subsidies that encourage wasteful consumption by removing market distortions, in accordance with national circumstances, including by restructuring taxation and phasing out those harmful subsidies, where they exist, to reflect their environmental impacts, taking fully into account the specific needs and conditions of developing countries and minimizing the possible adverse impacts on their development in a manner that protects the poor and the affected communities"
+23,12.c,12.c.1,Amount of fossil-fuel subsidies (production and consumption) per unit of GDP
+24,15.1,,"By 2020, ensure the conservation, restoration and sustainable use of terrestrial and inland freshwater ecosystems and their services, in particular forests, wetlands, mountains and drylands, in line with obligations under international agreements"
+25,15.1,15.1.1,Forest area as a proportion of total land area
+26,15.1,15.1.2,"Proportion of important sites for terrestrial and freshwater biodiversity that are covered by protected areas, by ecosystem type"
+27,15.2,,"By 2020, promote the implementation of sustainable management of all types of forests, halt deforestation, restore degraded forests and substantially increase afforestation and reforestation globally"
+28,15.2,15.2.1,Progress towards sustainable forest management
+29,15.3,,"By 2030, combat desertification, restore degraded land and soil, including land affected by desertification, drought and floods, and strive to achieve a land degradation-neutral world"
+30,15.3,15.3.1,Proportion of land that is degraded over total land area
+31,15.4,,"By 2030, ensure the conservation of mountain ecosystems, including their biodiversity, in order to enhance their capacity to provide benefits that are essential for sustainable development"
+32,15.4,15.4.1,Coverage by protected areas of important sites for mountain biodiversity
+33,15.4,15.4.2,Mountain Green Cover Index
+34,15.5,,"Take urgent and significant action to reduce the degradation of natural habitats, halt the loss of biodiversity and, by 2020, protect and prevent the extinction of threatened species"
+35,15.5,15.5.1,Red List Index
+36,15.6,,"Promote fair and equitable sharing of the benefits arising from the utilization of genetic resources and promote appropriate access to such resources, as internationally agreed"
+37,15.6,15.6.1,"Number of countries that have adopted legislative, administrative and policy frameworks to ensure fair and equitable sharing of benefits"
+38,15.7,,Take urgent action to end poaching and trafficking of protected species of flora and fauna and address both demand and supply of illegal wildlife products
+39,15.7,15.7.1,Proportion of traded wildlife that was poached or illicitly trafficked
+40,15.8,,"By 2020, introduce measures to prevent the introduction and significantly reduce the impact of invasive alien species on land and water ecosystems and control or eradicate the priority species"
+41,15.8,15.8.1,Proportion of countries adopting relevant national legislation and adequately resourcing the prevention or control of invasive alien species
+42,15.9,,"By 2020, integrate ecosystem and biodiversity values into national and local planning, development processes, poverty reduction strategies and accounts"
+43,15.9,15.9.1,"(a) Number of countries that have established national targets in accordance with or similar to Aichi Biodiversity Target 2 of the Strategic Plan for Biodiversity 2011–2020 in their national biodiversity strategy and action plans and the progress reported towards these targets; and (b) integration of biodiversity into national accounting and reporting systems, defined as implementation of the System of Environmental-Economic Accounting"
+44,15.a,,Mobilize and significantly increase financial resources from all sources to conserve and sustainably use biodiversity and ecosystems
+45,15.a,15.a.1,(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments
+46,15.b,,"Mobilize significant resources from all sources and at all levels to finance sustainable forest management and provide adequate incentives to developing countries to advance such management, including for conservation and reforestation"
+47,15.b,15.b.1,(a) Official development assistance on conservation and sustainable use of biodiversity; and (b) revenue generated and finance mobilized from biodiversity-relevant economic instruments
+48,15.c,,"Enhance global support for efforts to combat poaching and trafficking of protected species, including by increasing the capacity of local communities to pursue sustainable livelihood opportunities"
+49,15.c,15.c.1,Proportion of traded wildlife that was poached or illicitly trafficked
+50,16.1,,Significantly reduce all forms of violence and related death rates everywhere
+51,16.1,16.1.1,"Number of victims of intentional homicide per 100,000 population, by sex and age"
+52,16.1,16.1.3,"Proportion of population subjected to (a) physical violence, (b) psychological violence and (c) sexual violence in the previous 12 months"
+53,16.1,16.1.4,Proportion of population that feel safe walking alone around the area they live after dark
+54,16.1,16.1.2,"Conflict-related deaths per 100,000 population, by sex, age and cause"
+55,16.2,,"End abuse, exploitation, trafficking and all forms of violence against and torture of children"
+56,16.2,16.2.1,Proportion of children aged 1-17 years who experienced any physical punishment and/or psychological aggression by caregivers in the past month
+57,16.2,16.2.2,"Number of victims of human trafficking per 100,000 population, by sex, age and form of exploitation"
+58,16.2,16.2.3,Proportion of young women and men aged 18-29 years who experienced sexual violence by age 18
+59,16.3,,Promote the rule of law at the national and international levels and ensure equal access to justice for all
+60,16.3,16.3.2,Unsentenced detainees as a proportion of overall prison population
+61,16.3,16.3.1,Proportion of victims of violence in the previous 12 months who reported their victimization to competent authorities or other officially recognized conflict resolution mechanisms
+62,16.3,16.3.3,"Proportion of the population who have experienced a dispute in the past two years and who accessed a formal or informal dispute resolution mechanism, by type of mechanism"
+63,16.4,,"By 2030, significantly reduce illicit financial and arms flows, strengthen the recovery and return of stolen assets and combat all forms of organized crime"
+64,16.4,16.4.2,"Proportion of seized, found or surrendered arms whose illicit origin or context has been traced or established by a competent authority in line with international instruments"
+65,16.4,16.4.1,Total value of inward and outward illicit financial flows (in current United States dollars)
+66,16.5,,Substantially reduce corruption and bribery in all their forms
+67,16.5,16.5.2,"Proportion of businesses that had at least one contact with a public official and that paid a bribe to a public official, or were asked for a bribe by those public officials during the previous 12 months"
+68,16.5,16.5.1,"Proportion of persons who had at least one contact with a public official and who paid a bribe to a public official, or were asked for a bribe by those public officials, during the previous 12 months"
+69,16.6,,"Develop effective, accountable and transparent institutions at all levels"
+70,16.6,16.6.1,"Primary government expenditures as a proportion of original approved budget, by sector (or by budget codes or similar)"
+71,16.6,16.6.2,Proportion of population satisfied with their last experience of public services
+72,16.7,,"Ensure responsive, inclusive, participatory and representative decision-making at all levels"
+73,16.7,16.7.1,"Proportions of positions in national and local institutions, including (a) the legislatures; (b) the public service; and (c) the judiciary, compared to national distributions, by sex, age, persons with disabilities and population groups"
+74,16.7,16.7.2,"Proportion of population who believe decision-making is inclusive and responsive, by sex, age, disability and population group"
+75,16.8,,Broaden and strengthen the participation of developing countries in the institutions of global governance
+76,16.8,16.8.1,Proportion of members and voting rights of developing countries in international organizations
+77,16.9,,"By 2030, provide legal identity for all, including birth registration"
+78,16.9,16.9.1,"Proportion of children under 5 years of age whose births have been registered with a civil authority, by age"
+79,16.10,,"Ensure public access to information and protect fundamental freedoms, in accordance with national legislation and international agreements"
+80,16.10,16.10.1,"Number of verified cases of killing, kidnapping, enforced disappearance, arbitrary detention and torture of journalists, associated media personnel, trade unionists and human rights advocates in the previous 12 months"
+81,16.10,16.10.2,"Number of countries that adopt and implement constitutional, statutory and/or policy guarantees for public access to information"
+82,16.a,,"Strengthen relevant national institutions, including through international cooperation, for building capacity at all levels, in particular in developing countries, to prevent violence and combat terrorism and crime"
+83,16.a,16.a.1,Existence of independent national human rights institutions in compliance with the Paris Principles
+84,16.b,,Promote and enforce non-discriminatory laws and policies for sustainable development
+85,16.b,16.b.1,Proportion of population reporting having personally felt discriminated against or harassed in the previous 12 months on the basis of a ground of discrimination prohibited under international human rights law
